@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastcabrera
-- 👀 I’m interested in Data Analysis/Data Science and looking to improve my analytical programming skills with Python, R, SQL, and C++!
-- 🌱 I’m currently earning my Bachelor's in Economics with a minor in Computer Science at CSUF!
+- 👀 I’m interested in Analytics, Systems, and Business! I am hoping to improve my technical skills using SQL, Tableau, Python, C#, C++, and more!
+- 🌱 I’m currently earning my Bachelor's of Business Administration in Information Systems with a minor in Computer Science at CSUF!
 - 💞️ I’m looking to collaborate on personal and public projects!
 
 <!---
